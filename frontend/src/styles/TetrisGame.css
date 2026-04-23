@@ -1,0 +1,26 @@
+.game-board {
+    width: 300px;
+    height: 600px;
+    border: 2px solid black;
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.question-box {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.question-box h2 {
+    font-size: 20px;
+    color: #333;
+}
+
+.question-box p {
+    font-size: 16px;
+    color: #555;
+}
