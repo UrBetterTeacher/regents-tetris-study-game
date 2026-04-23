@@ -1,0 +1,11 @@
+.main-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-menu-item {
+    margin: 0 15px;
+    text-align: center;
+}
